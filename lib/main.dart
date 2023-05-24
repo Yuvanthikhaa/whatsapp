@@ -198,3 +198,5 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
 
   // List<dynamic> get image => items;
 }
+/*            color: Color(0xFF777777),
+*/
